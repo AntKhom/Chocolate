@@ -1,7 +1,7 @@
 @import url('../css/subscribe.css');
 @import url('../css/overlay-form-new-chocolate.css');
-@import url('../css/header.css');
-@import url('../css/hero.css');
+@import url('./header.css');
+@import url('./hero.css');
 @import url('../css/advanteges.css');
 @import url('../css/unique-components.css');
 @import url('../css/how-its-made.css');
